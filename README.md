@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I'm currently working on **MineGlot** - Mod Minecraft client-side pour traduction IA en temps réel<br><br>
-👯 I'm looking to collaborate on projets Minecraft Forge et intégrations d'APIs IA<br><br>
-🤝 I'm looking for help with optimisation cache RocksDB et interface utilisateur<br><br>
-🌱 I'm currently learning nouvelles APIs d'IA et optimisation Java<br><br>
-💬 Ask me about développement mods Minecraft Forge 1.8.9 et intégration d'APIs IA<br><br>
-⚡ Fun fact : MineGlot permet aux joueurs de communiquer dans 44 langues grâce à l'IA !
+Hi there! ✨<br><br>
+Hi 👋! My name is Nathan<br><br>
+I'm a developer from the beautiful islands of the Bahamas.<br>
+Passionate about Minecraft modding and AI, I create tools to connect players worldwide.<br><br>
+🔭 Currently working on **MineGlot** – a Minecraft mod for real-time chat translation using AI.<br>
+⚡ Fun fact: With MineGlot, players can chat in 44 different languages!<br>
 
 
 ## 🌐 Socials:
