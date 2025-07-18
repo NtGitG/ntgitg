@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I'm currently working on **MineGlot** - Un mod Minecraft client-side qui utilise l'IA pour traduire le chat en temps réel avec support de 4 moteurs (OpenAI, Claude, Gemini, Qwen) et 44 langues.<br><br>👯 I'm looking to collaborate on des projets Minecraft Forge, des intégrations d'APIs IA, et des outils de traduction multilingue.<br><br>🤝 I'm looking for help with l'optimisation des performances du cache RocksDB, l'amélioration de l'interface utilisateur, et l'extension du support linguistique.<br><br>🌱 I'm currently learning les nouvelles APIs d'IA, les techniques d'optimisation Java, et les meilleures pratiques pour les mods Minecraft.<br><br>💬 Ask me about le développement de mods Minecraft Forge 1.8.9, l'intégration d'APIs d'IA, la gestion de cache avec RocksDB, et l'architecture modulaire Java.<br><br>⚡ Fun fact : J'ai créé MineGlot pour briser les barrières linguistiques sur les serveurs Minecraft multilingues - maintenant les joueurs peuvent communiquer instantanément dans 44 langues différentes grâce à l'IA !
+🔭 I'm currently working on **MineGlot** - Mod Minecraft client-side pour traduction IA en temps réel<br><br>
+👯 I'm looking to collaborate on projets Minecraft Forge et intégrations d'APIs IA<br><br>
+🤝 I'm looking for help with optimisation cache RocksDB et interface utilisateur<br><br>
+🌱 I'm currently learning nouvelles APIs d'IA et optimisation Java<br><br>
+💬 Ask me about développement mods Minecraft Forge 1.8.9 et intégration d'APIs IA<br><br>
+⚡ Fun fact : MineGlot permet aux joueurs de communiquer dans 44 langues grâce à l'IA !
 
 
 ## 🌐 Socials:
