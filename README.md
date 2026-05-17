@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there! ✨<br><br>
-I'm a developer from the beautiful islands of the Bahamas.<br>
+Me i'm a developer from the beautiful islands of the Bahamas.<br>
 
 
 ## 🌐 Socials:
